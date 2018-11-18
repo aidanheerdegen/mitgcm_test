@@ -12,3 +12,5 @@ model: mitgcm
 shortpath: /short/v45
 exe: /home/502/aph502/v45_short/mitgcm/build/tutorial_barotropic_gyre/mitgcmuv
 input: tutorial_barotropic_gyre
+
+collate: False
