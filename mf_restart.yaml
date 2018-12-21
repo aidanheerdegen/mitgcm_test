@@ -1,0 +1,44 @@
+format: yamanifest
+githash: af8bd73cf51387ac63c626360a84ed913900a1d5
+version: 1.0
+---
+work/pickup.0000000150.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.001.001.data
+  hashes:
+    binhash: 20fe167d3bf2c8e4dc93085bc30f3c13
+    md5: 12ef5b9292ba310e5e7704e9b7e30ca6
+work/pickup.0000000150.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.001.001.meta
+  hashes:
+    binhash: 1505cbbbba63fe6526af1c6193cfbd49
+    md5: 761ed860f355170e2d20056be2d5ee02
+work/pickup.0000000150.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.001.002.data
+  hashes:
+    binhash: f573cdc94a218706035aafb55d8553e1
+    md5: b8cbe0b9ee47ac6f04afdfc955f73879
+work/pickup.0000000150.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.001.002.meta
+  hashes:
+    binhash: 49aaa451759f6ae35abc57afc0b29a56
+    md5: 8fb7a2524eb9a3c2766b7f998eab4cb4
+work/pickup.0000000150.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.002.001.data
+  hashes:
+    binhash: 5c95f66883b957f91147aa4c321d79bd
+    md5: f0c1e47a9c1b52f002a6c77c8e34bbd2
+work/pickup.0000000150.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.002.001.meta
+  hashes:
+    binhash: 2bd156fe7d78f75642aa74481f766049
+    md5: c6f07a33c83bf5938c3fdf0b4a3b1599
+work/pickup.0000000150.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.002.002.data
+  hashes:
+    binhash: 5022d50ad2e1ef8e5155c818df7d31bd
+    md5: cdf5db94ecc8071bafd648fcd17d39a9
+work/pickup.0000000150.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart014/pickup.0000000150.002.002.meta
+  hashes:
+    binhash: d1dc0591fc27cbc4ca693c47bc787e09
+    md5: 8584d708e3b0c9b9ef5833f1d078f142

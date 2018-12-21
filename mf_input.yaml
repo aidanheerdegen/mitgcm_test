@@ -1,0 +1,1354 @@
+format: yamanifest
+githash: af8bd73cf51387ac63c626360a84ed913900a1d5
+version: 1.0
+---
+work/.cvsignore:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/.cvsignore
+  hashes:
+    binhash: aa0dbefdcf24cd5c4a2006d944e9d447
+    md5: 0f5498b75b54c3eba1198cece3929bc4
+work/CVS:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/CVS
+  hashes:
+    binhash: null
+    md5: null
+work/DRC.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DRC.data
+  hashes:
+    binhash: 4e624b29c9b7130277426e15053639ef
+    md5: 063431d44a86357cfef55ab41af74d13
+work/DRC.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DRC.meta
+  hashes:
+    binhash: 74a7900e0153c74ef036210c9d9206b2
+    md5: 0294bb0767a7a611c39c188c85e649ef
+work/DRF.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DRF.data
+  hashes:
+    binhash: 719ef7e282b9b766125af511b73afa62
+    md5: 2c6c8c0554b1d78b2299000390dfc66e
+work/DRF.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DRF.meta
+  hashes:
+    binhash: 9883b37568cb6f261ba9fbb2b9450545
+    md5: b02902a7981c36d8f792c75b900aeae7
+work/DXC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.001.001.data
+  hashes:
+    binhash: f1acfbae27a95ab5e228d07a2c54bea2
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.001.001.meta
+  hashes:
+    binhash: b6f80a31bb461ecc784976e5d1d4ebc3
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/DXC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.001.002.data
+  hashes:
+    binhash: 89d13b791e001e55469f08aef8768e04
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.001.002.meta
+  hashes:
+    binhash: f2627fa97381d964c60a5d1619dd0623
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/DXC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.002.001.data
+  hashes:
+    binhash: 081890f612d031090c0e06bbde8db867
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.002.001.meta
+  hashes:
+    binhash: 0341e0e86fade5ceaa08e201b49cb100
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/DXC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.002.002.data
+  hashes:
+    binhash: e196921d432defcb03aff3dada15c523
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXC.002.002.meta
+  hashes:
+    binhash: 5e9ba2ef405e0e1dd13b0306f0bf9ced
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/DXG.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.001.001.data
+  hashes:
+    binhash: b459a1f7b5d211be6579a43cea35fc4d
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXG.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.001.001.meta
+  hashes:
+    binhash: 37984777305a7005a403be47f2b6c472
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/DXG.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.001.002.data
+  hashes:
+    binhash: 6de4d5317d0041ad1088cd04ad707e8b
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXG.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.001.002.meta
+  hashes:
+    binhash: d02445850016b5da4b07de6ce5464109
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/DXG.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.002.001.data
+  hashes:
+    binhash: 46001544b07f93b48c7ab601532e77e3
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXG.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.002.001.meta
+  hashes:
+    binhash: f09a6bc340b044be70f47e1d7ca3d7f4
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/DXG.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.002.002.data
+  hashes:
+    binhash: 660cc1cf2f081cdc6576b51acf8772a7
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DXG.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DXG.002.002.meta
+  hashes:
+    binhash: d9b7665a705f7afef86b8cc573d6dfe9
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/DYC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.001.001.data
+  hashes:
+    binhash: 64c4c49d61209f47d56807f9d607b27b
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.001.001.meta
+  hashes:
+    binhash: d66fe46d9f51f52d5ed1d4af1fb94a71
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/DYC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.001.002.data
+  hashes:
+    binhash: 30af7ffe257e3dec323a3a7b49b53770
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.001.002.meta
+  hashes:
+    binhash: 8633f1be1aa163e41b3b60be60372dd9
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/DYC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.002.001.data
+  hashes:
+    binhash: 97d30572d09713c82fa0ce0839614552
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.002.001.meta
+  hashes:
+    binhash: aeb19f89ea051fe5d52196c2b49b8354
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/DYC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.002.002.data
+  hashes:
+    binhash: 6ee55c812d8a622749852c2e22291500
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYC.002.002.meta
+  hashes:
+    binhash: 0317b65f1a06a120ab51c6aadaa3cc64
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/DYG.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.001.001.data
+  hashes:
+    binhash: 9c188a8f91a6211bf9e21d319103e442
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYG.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.001.001.meta
+  hashes:
+    binhash: a7c0981de4040fd7b96499221dea3cea
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/DYG.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.001.002.data
+  hashes:
+    binhash: ee5bbffa32fe8a54439c88fce1bc5f63
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYG.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.001.002.meta
+  hashes:
+    binhash: 62b51e1a669fa0c99428df4f554eb468
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/DYG.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.002.001.data
+  hashes:
+    binhash: cfc34b78bc7cd97d464bcfbae0ec0c6e
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYG.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.002.001.meta
+  hashes:
+    binhash: 75f85caebdcc89568469b88af01c1187
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/DYG.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.002.002.data
+  hashes:
+    binhash: 8de98fea076df216f6e08473b8cd729f
+    md5: c73d8a958a4b19edcef82d1a3401850a
+work/DYG.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/DYG.002.002.meta
+  hashes:
+    binhash: c54d002e2ac4a3dc27bbd9a6aad70d87
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/Depth.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.001.001.data
+  hashes:
+    binhash: fed55076be95e15033e502fe97c6d1c7
+    md5: 46b97a563479f8bb4bda7d815fbe4556
+work/Depth.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.001.001.meta
+  hashes:
+    binhash: 711eb4ecb4c736344818c6907b55b736
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/Depth.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.001.002.data
+  hashes:
+    binhash: 6ce33431cf5ad98cdcfd29aafce5d4af
+    md5: 4504feba3e11ab71deb43e91b9f208f0
+work/Depth.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.001.002.meta
+  hashes:
+    binhash: 155e19252fc478d6bfa19fc5bab27a9b
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/Depth.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.002.001.data
+  hashes:
+    binhash: 0804981ad3cc8407d4b9240dc69a1aae
+    md5: e4a8d4e0e70bae227d39f7d9267068a3
+work/Depth.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.002.001.meta
+  hashes:
+    binhash: 8f81cd8ed700df7e46717583084b9968
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/Depth.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.002.002.data
+  hashes:
+    binhash: 8832fb113018924f5feb9118bafc6b44
+    md5: 9c5bfcb04ba6016552fc051a41ec9845
+work/Depth.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Depth.002.002.meta
+  hashes:
+    binhash: 921a9e8827c3f9d2eb1530fd256c6f28
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/Eta.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.001.001.data
+  hashes:
+    binhash: 0f3d9182d99c12d8544882480487f79a
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/Eta.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.001.001.meta
+  hashes:
+    binhash: c5aa444a6f6f39cfe4e617692fecd1fb
+    md5: b2825681e153393fd361768eb948f9a2
+work/Eta.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.001.002.data
+  hashes:
+    binhash: 7ff236847d44dc2727cb13388ecf5831
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/Eta.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.001.002.meta
+  hashes:
+    binhash: 838c69f479af8802683d3cb1dff8ad0a
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/Eta.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.002.001.data
+  hashes:
+    binhash: 3896230ddf6fad886d3dbe6d5e5dbe48
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/Eta.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.002.001.meta
+  hashes:
+    binhash: 9baef92d0ff3a9f08080973ffa5ef917
+    md5: b0d0923933fced59729d766257be2794
+work/Eta.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.002.002.data
+  hashes:
+    binhash: 5faa8b8d1ac8ee3de7f3b71d4abb1a84
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/Eta.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000000.002.002.meta
+  hashes:
+    binhash: de6f3852a230fe1b97501e731033241d
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/Eta.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.001.001.data
+  hashes:
+    binhash: 907b8082c4a936af25333fede45bafe1
+    md5: 3323d481e10edc7719e96173813393bc
+work/Eta.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.001.001.meta
+  hashes:
+    binhash: a3b8e61bedb2b0fc11fe85cb9bcb9f59
+    md5: 61f8979a7827de3630366061278a0eb6
+work/Eta.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.001.002.data
+  hashes:
+    binhash: af8c7fcd2d629bc7c1a782f8aa5e9962
+    md5: 8d6f49d18d1b56975c81f63e3556ddc6
+work/Eta.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.001.002.meta
+  hashes:
+    binhash: df13b0635faab09955a8062e047ea6f3
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/Eta.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.002.001.data
+  hashes:
+    binhash: 4e64fe2e180fb93f3bc4cb6e22493a3b
+    md5: 9a62d971670cfe4f7473e6d1689182be
+work/Eta.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.002.001.meta
+  hashes:
+    binhash: 346326e4a29e075c85955b23c51e42d0
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/Eta.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.002.002.data
+  hashes:
+    binhash: b0d5d2e2901122ff56f55680563a9c0b
+    md5: 5cf1500df7c121c4214ab4cd0a92643a
+work/Eta.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/Eta.0000000010.002.002.meta
+  hashes:
+    binhash: 428e2189e9d14dea970f976f5d17c540
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/PH.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.001.001.data
+  hashes:
+    binhash: 15f97c16562b93ba25adcd8806b5a050
+    md5: 878573d5770553436c05833239bf7e65
+work/PH.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.001.001.meta
+  hashes:
+    binhash: 859b3a0b8a770da1d5c7e221146ef0a8
+    md5: 61f8979a7827de3630366061278a0eb6
+work/PH.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.001.002.data
+  hashes:
+    binhash: 6a468de5b6ab339a9f88689467972371
+    md5: ed2bc09a9d7b1915833f1becf8900fdd
+work/PH.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.001.002.meta
+  hashes:
+    binhash: 56f2eb74e4cb7a1dcc3d53482798ad78
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/PH.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.002.001.data
+  hashes:
+    binhash: db822d6183ae5644e7e072a596278c3f
+    md5: 46be32d7f2c361c2f7c84f23718b355c
+work/PH.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.002.001.meta
+  hashes:
+    binhash: 2b78c1b2ec53979e197fe758a243e54e
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/PH.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.002.002.data
+  hashes:
+    binhash: 33c99715c231a20f35273952bee7b809
+    md5: 80d05a1cf5ab123d8a51e38ece6ae0f8
+work/PH.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PH.0000000010.002.002.meta
+  hashes:
+    binhash: 1940ac82b9c045b4a2a8c441e38fa72d
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/PHL.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.001.001.data
+  hashes:
+    binhash: 0f065c476bf4320ca59c300eabd1902c
+    md5: 878573d5770553436c05833239bf7e65
+work/PHL.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.001.001.meta
+  hashes:
+    binhash: e70b24a0bf111781adad21ec37cf7639
+    md5: 61f8979a7827de3630366061278a0eb6
+work/PHL.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.001.002.data
+  hashes:
+    binhash: e4a46f543f9f7b03e238b428c122a581
+    md5: 57ca1be65a86e19de25474ff69095b3f
+work/PHL.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.001.002.meta
+  hashes:
+    binhash: ac71cacc4918295ef1bde3c1f8747d7f
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/PHL.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.002.001.data
+  hashes:
+    binhash: 7ce62919369f64118014e47ee6f01a1f
+    md5: 017c105f123965b981ba86803eb2630a
+work/PHL.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.002.001.meta
+  hashes:
+    binhash: 41db3a6ab0c9db4b3125b6a8db638b49
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/PHL.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.002.002.data
+  hashes:
+    binhash: 77c23a096a1a00e0f6f4ae36f77772dc
+    md5: fc823a46ccf7797fa5dd1beef1b213d4
+work/PHL.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHL.0000000010.002.002.meta
+  hashes:
+    binhash: 68fd1309aa2aeeddd888f8152a89281a
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/PHrefC.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHrefC.data
+  hashes:
+    binhash: bf811909994b63b363d1acd4fdcb8b68
+    md5: 683a6992a93a7ae8f328e29854e27d8b
+work/PHrefC.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHrefC.meta
+  hashes:
+    binhash: 61066847e8a3cbc587193aa8f358a7c4
+    md5: b02902a7981c36d8f792c75b900aeae7
+work/PHrefF.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHrefF.data
+  hashes:
+    binhash: 7938dfdfcf26023eae6b5ebeb22c9e18
+    md5: b9738e8d20a0722ba4aab0682d15f2b3
+work/PHrefF.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/PHrefF.meta
+  hashes:
+    binhash: 6eda5df03b91add6597cd62adeba4809
+    md5: 0294bb0767a7a611c39c188c85e649ef
+work/RAC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.001.001.data
+  hashes:
+    binhash: a8c3bb8ab65197f35086abd070af9e5d
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.001.001.meta
+  hashes:
+    binhash: c10df8b00b1fbf997c5d58d0fbb37936
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/RAC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.001.002.data
+  hashes:
+    binhash: 2594fac9e688b77810d7bc372e5e2185
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.001.002.meta
+  hashes:
+    binhash: 93cc6f78f3ac4cdc746be8e96f4784dd
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/RAC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.002.001.data
+  hashes:
+    binhash: 230ed1a44dc7a4f367a91f55cf19e5c2
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.002.001.meta
+  hashes:
+    binhash: 19a2364ce7322af212d28417b8623b5f
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/RAC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.002.002.data
+  hashes:
+    binhash: 03aa3364a5817b297c4efe61ead013c0
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAC.002.002.meta
+  hashes:
+    binhash: 2827711857fe8674b8217793340ad37f
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/RAS.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.001.001.data
+  hashes:
+    binhash: 8a1577e460ec6062517c5baa2f550c2a
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAS.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.001.001.meta
+  hashes:
+    binhash: 823234c4df0ffd1669e54672e51a1b8e
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/RAS.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.001.002.data
+  hashes:
+    binhash: a0fb66622f67b79407551fadab10d71f
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAS.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.001.002.meta
+  hashes:
+    binhash: fb33021db486001085aed40da4f22b88
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/RAS.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.002.001.data
+  hashes:
+    binhash: 5053335a5462d4ce9509715361dadc17
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAS.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.002.001.meta
+  hashes:
+    binhash: 13ddfd291fb34100827fcfbfc0a3151c
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/RAS.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.002.002.data
+  hashes:
+    binhash: c4e23e496741634ee66ed4087f9220fc
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAS.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAS.002.002.meta
+  hashes:
+    binhash: 878225a88ca2ba17abb1545d48bdeaf4
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/RAW.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.001.001.data
+  hashes:
+    binhash: 89dc306575faf0ddb024cad87a8b55dc
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAW.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.001.001.meta
+  hashes:
+    binhash: 1d5b613cffa7a9a16fd9b765602d56af
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/RAW.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.001.002.data
+  hashes:
+    binhash: 564d33477899422001eaf1c21de0fb19
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAW.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.001.002.meta
+  hashes:
+    binhash: c10c889dbdd1d17373108592bc26daab
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/RAW.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.002.001.data
+  hashes:
+    binhash: 4251baec89b96f5f6778995c486c2d52
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAW.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.002.001.meta
+  hashes:
+    binhash: 510644301aac9e3c2c7dd2f62df27a22
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/RAW.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.002.002.data
+  hashes:
+    binhash: ffe7a289db87c798c521506ff531790f
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAW.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAW.002.002.meta
+  hashes:
+    binhash: 59ff224ebe3cfb0dd05d5eafbfaef626
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/RAZ.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.001.001.data
+  hashes:
+    binhash: 368b842e05bbfecc337510fbe0af8802
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAZ.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.001.001.meta
+  hashes:
+    binhash: 320227493e33edb5592ea6cdd7fb87c0
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/RAZ.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.001.002.data
+  hashes:
+    binhash: 1f491ead611715d5a5c3a3b9dacc3621
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAZ.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.001.002.meta
+  hashes:
+    binhash: e029dc73152e97bfbb2f7c681b36f846
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/RAZ.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.002.001.data
+  hashes:
+    binhash: 943a655d03c5e489ccdd792530e7b210
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAZ.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.002.001.meta
+  hashes:
+    binhash: 95da0807a1287423f1542bcd6115f989
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/RAZ.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.002.002.data
+  hashes:
+    binhash: f94368541a449730455ca04480f022fa
+    md5: a146eb6a88ee0596c21efdbd088c9bc6
+work/RAZ.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RAZ.002.002.meta
+  hashes:
+    binhash: c706a0c2e1f57da96045a8ff6b9c748f
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/RC.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RC.data
+  hashes:
+    binhash: 5f524b561c77cf0fa27ec19552ac31ef
+    md5: 188b1023d478ba13b8c2358f42572f83
+work/RC.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RC.meta
+  hashes:
+    binhash: 831e4873a54d1a14abf90cd457ab620d
+    md5: b02902a7981c36d8f792c75b900aeae7
+work/RF.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RF.data
+  hashes:
+    binhash: 94b8328d2b7f15065bce1dc215790c19
+    md5: c90da41a7e8f0ab67ea5911fd09fefa7
+work/RF.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RF.meta
+  hashes:
+    binhash: d6ef8df492aa48f6fa266fb5893a5a31
+    md5: 0294bb0767a7a611c39c188c85e649ef
+work/RhoRef.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RhoRef.data
+  hashes:
+    binhash: ec1beb83a0019edfe612d94cc3fb4ead
+    md5: 342b9162f8b7f0f7b279776760325924
+work/RhoRef.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/RhoRef.meta
+  hashes:
+    binhash: 03669aa1de0a938af981485626a3aee0
+    md5: b02902a7981c36d8f792c75b900aeae7
+work/S.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.001.001.data
+  hashes:
+    binhash: fe74d04e5621a50d4666a0d2e1468f7f
+    md5: daaf266c61f1e8b48dcf5a8767dd18d6
+work/S.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.001.001.meta
+  hashes:
+    binhash: a32f78a458b3dba4325e6ce047d86795
+    md5: b2825681e153393fd361768eb948f9a2
+work/S.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.001.002.data
+  hashes:
+    binhash: b399bc5dad4ad5f320cd0240cbe1da8a
+    md5: bd143a756c11705a981b84acc4ba7a26
+work/S.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.001.002.meta
+  hashes:
+    binhash: 908ce804fbfddc637aaf714d2c10b8d6
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/S.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.002.001.data
+  hashes:
+    binhash: 0803149a65228d321a6290ef1056dd26
+    md5: b779822af341149d0ddf0787638a31fc
+work/S.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.002.001.meta
+  hashes:
+    binhash: 2df207f4f051d4d2ab031d691e26bec1
+    md5: b0d0923933fced59729d766257be2794
+work/S.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.002.002.data
+  hashes:
+    binhash: 560a6e28a1a7aaac0649016ead8b9916
+    md5: f503944c9ad9d2ada747820020b7aba4
+work/S.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000000.002.002.meta
+  hashes:
+    binhash: 14238ca8c2edff2cd28523a007a34535
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/S.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.001.001.data
+  hashes:
+    binhash: e4df5e0f271bd4fa1c26058aa1552466
+    md5: daaf266c61f1e8b48dcf5a8767dd18d6
+work/S.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.001.001.meta
+  hashes:
+    binhash: 0bc30a8a028e42cc8a0cee7222128f46
+    md5: 61f8979a7827de3630366061278a0eb6
+work/S.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.001.002.data
+  hashes:
+    binhash: 2083ebce741cbf0f4ea172ae7dfc4a4f
+    md5: bd143a756c11705a981b84acc4ba7a26
+work/S.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.001.002.meta
+  hashes:
+    binhash: 779439c159f0d13cf65cc4e37cf4419e
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/S.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.002.001.data
+  hashes:
+    binhash: 078bb381e1c9a1c8db9b79f28a9eff45
+    md5: b779822af341149d0ddf0787638a31fc
+work/S.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.002.001.meta
+  hashes:
+    binhash: 09f5f739b7ccc36f71d2b95d51e70b38
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/S.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.002.002.data
+  hashes:
+    binhash: 6bca4bab5e6050e3335d949eb8c512ab
+    md5: f503944c9ad9d2ada747820020b7aba4
+work/S.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/S.0000000010.002.002.meta
+  hashes:
+    binhash: 54b5f16866a9b5aec03cb852c7e1f69f
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/STDERR.0000:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/STDERR.0000
+  hashes:
+    binhash: 55bdf96ff97f3468f35d7e8a78e15852
+    md5: 382771c926dc3d5dffbf415d0ff73c3b
+work/T.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.001.001.data
+  hashes:
+    binhash: 1631358a1e89c6735678db8ad6395105
+    md5: 86ef20f266a81562a497ef7b1a5458d2
+work/T.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.001.001.meta
+  hashes:
+    binhash: 14c0ad549207c7815164e612659ca561
+    md5: b2825681e153393fd361768eb948f9a2
+work/T.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.001.002.data
+  hashes:
+    binhash: 5ae78f137d3922e18d021b9a43030fd2
+    md5: 6e6a59ec6e6c7384123a014c899f0717
+work/T.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.001.002.meta
+  hashes:
+    binhash: 22316fc9a095c0ff2764e851723c85ee
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/T.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.002.001.data
+  hashes:
+    binhash: 80489172ea86952dc8154f7759bbdfa1
+    md5: 5548a077bf280fe5ab7d6a99a98ea5fb
+work/T.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.002.001.meta
+  hashes:
+    binhash: f37dde94b62bb08e3a146d6c03d6fc7e
+    md5: b0d0923933fced59729d766257be2794
+work/T.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.002.002.data
+  hashes:
+    binhash: c5cb895c75d3ff68e749caba04ab13e9
+    md5: 7a00602e4543fe23326342ec96d89700
+work/T.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000000.002.002.meta
+  hashes:
+    binhash: 719658749a99e6f68e73e5fd16e6b198
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/T.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.001.001.data
+  hashes:
+    binhash: 709f416bac1fe45e7a88d49660c44d02
+    md5: 86ef20f266a81562a497ef7b1a5458d2
+work/T.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.001.001.meta
+  hashes:
+    binhash: dc8259259dec2f1265afa24b4937415c
+    md5: 61f8979a7827de3630366061278a0eb6
+work/T.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.001.002.data
+  hashes:
+    binhash: e2bf1cc5be1215deefd16b75872563d9
+    md5: 6e6a59ec6e6c7384123a014c899f0717
+work/T.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.001.002.meta
+  hashes:
+    binhash: f7e7a8a3f5c0a24f6eaac9c156a537d7
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/T.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.002.001.data
+  hashes:
+    binhash: bae75ae5032d5132dc8df669e3c8dc3e
+    md5: 5548a077bf280fe5ab7d6a99a98ea5fb
+work/T.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.002.001.meta
+  hashes:
+    binhash: 35900f5c5fa8238692c8e46acbc9d4b7
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/T.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.002.002.data
+  hashes:
+    binhash: 08a483e0054dd5f7a8728f78117be379
+    md5: 7a00602e4543fe23326342ec96d89700
+work/T.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/T.0000000010.002.002.meta
+  hashes:
+    binhash: 0c09b9e2e20ec0e8437965a0b1884b97
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/U.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.001.001.data
+  hashes:
+    binhash: 475bc9e23968a04fd39bd0539fc3a42a
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/U.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.001.001.meta
+  hashes:
+    binhash: 656acaf31be49fd19bed7c634cd528f7
+    md5: b2825681e153393fd361768eb948f9a2
+work/U.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.001.002.data
+  hashes:
+    binhash: baa02d27fbb3c9b4ea1ae9f57e0c5c60
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/U.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.001.002.meta
+  hashes:
+    binhash: 4d5787fbfc41bbd7c23fef0da14863e4
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/U.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.002.001.data
+  hashes:
+    binhash: 4b6c7ed9a38043ce400befe82a9d993b
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/U.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.002.001.meta
+  hashes:
+    binhash: d0a091603f503048ee2ff76f7064d3a9
+    md5: b0d0923933fced59729d766257be2794
+work/U.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.002.002.data
+  hashes:
+    binhash: f052b8f40e4ffdd17187c5173eb154f5
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/U.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000000.002.002.meta
+  hashes:
+    binhash: e3f2b5e1d2d8ac53b93bab840bffb1b1
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/U.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.001.001.data
+  hashes:
+    binhash: 194f558c095d9289abdc4c72614c4330
+    md5: 9465ad886373f61d427877fbcf219666
+work/U.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.001.001.meta
+  hashes:
+    binhash: cdb5193a890550ca1fb7d72188edd676
+    md5: 61f8979a7827de3630366061278a0eb6
+work/U.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.001.002.data
+  hashes:
+    binhash: de8aac5bb85129c6038ac3c5601f1c49
+    md5: c8cd5c5c18fb3faa69baf866b4bb8bac
+work/U.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.001.002.meta
+  hashes:
+    binhash: 1b5c2e6b80306d18e00afc8fe8fade3a
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/U.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.002.001.data
+  hashes:
+    binhash: a3b259d17eefb741d21d51787446018a
+    md5: c630f78e54e23400d218a2dd6a322ba6
+work/U.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.002.001.meta
+  hashes:
+    binhash: 7f3e2b2f36ce21993e2bb97638c96c1a
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/U.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.002.002.data
+  hashes:
+    binhash: 6da3e88d0b99fad73cdf6264161ffb9a
+    md5: c75a4454070241e18e079909269cddb6
+work/U.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/U.0000000010.002.002.meta
+  hashes:
+    binhash: 109084e799fbb4a22a16c11ab39805f5
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/V.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.001.001.data
+  hashes:
+    binhash: a3ade37c366285f6e28ca06050b8dce0
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/V.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.001.001.meta
+  hashes:
+    binhash: 424dab51c0c3d22ec4a28c0fbea0ed90
+    md5: b2825681e153393fd361768eb948f9a2
+work/V.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.001.002.data
+  hashes:
+    binhash: 69243b36270d23dab625912b90139006
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/V.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.001.002.meta
+  hashes:
+    binhash: 90a01a8373e18bf49bce6a37b144e622
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/V.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.002.001.data
+  hashes:
+    binhash: f3913b7783134177e241ea9edc71c327
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/V.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.002.001.meta
+  hashes:
+    binhash: f14cac1c527fb2382437dfe440364755
+    md5: b0d0923933fced59729d766257be2794
+work/V.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.002.002.data
+  hashes:
+    binhash: c2e638ba34440070d97cfbbcc2c16191
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/V.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000000.002.002.meta
+  hashes:
+    binhash: cfc6a141a8564bd9d7884e83775a4d0a
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/V.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.001.001.data
+  hashes:
+    binhash: 87823eef37b61d8887c34fd97ee480f2
+    md5: 05650b3a6e40788e4c1dd356bf7222c4
+work/V.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.001.001.meta
+  hashes:
+    binhash: c41ccec53bb384400138d4b5bf87dd34
+    md5: 61f8979a7827de3630366061278a0eb6
+work/V.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.001.002.data
+  hashes:
+    binhash: 1325c2022a8fcb2893fa09ae8012207c
+    md5: 586d783a375f2b169a11770f9ed040df
+work/V.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.001.002.meta
+  hashes:
+    binhash: 21cd3747e4fbc0f27d6d79ae8e1d2e06
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/V.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.002.001.data
+  hashes:
+    binhash: 56930ea1f0036c564272bb92da3a361c
+    md5: ba1248be0f45eb54ddf9bcd97e5ed0d9
+work/V.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.002.001.meta
+  hashes:
+    binhash: fe18a54a7214f2db1afbbe962bb1165b
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/V.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.002.002.data
+  hashes:
+    binhash: b23fcb91743b52ddd7c15522480e4b29
+    md5: d9bb64621aa3a90b9f6b1b7adfe292d8
+work/V.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/V.0000000010.002.002.meta
+  hashes:
+    binhash: 13b66d078ebc5901633e318522173194
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/W.0000000000.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.001.001.data
+  hashes:
+    binhash: cecd225a204cc83d8d7f5f8544f6b324
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/W.0000000000.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.001.001.meta
+  hashes:
+    binhash: cf38ce4ea941e9f20197e5385468d586
+    md5: b2825681e153393fd361768eb948f9a2
+work/W.0000000000.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.001.002.data
+  hashes:
+    binhash: 97ee1346294c2d69778cda80afb1be07
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/W.0000000000.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.001.002.meta
+  hashes:
+    binhash: ca8bd6884ad22684aaf344a876396190
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/W.0000000000.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.002.001.data
+  hashes:
+    binhash: 5db647e064aa94f07184fe128c8b83f6
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/W.0000000000.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.002.001.meta
+  hashes:
+    binhash: 95b1e7df75906ae1e74a1e1f50f16082
+    md5: b0d0923933fced59729d766257be2794
+work/W.0000000000.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.002.002.data
+  hashes:
+    binhash: 3a53d014fdba93d263f42773a7307685
+    md5: 1b9566a98c65d8ca35271032fa35fed1
+work/W.0000000000.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000000.002.002.meta
+  hashes:
+    binhash: d5ac9adf3b61bca7fb9768e2b4d27e0a
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/W.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.001.001.data
+  hashes:
+    binhash: b6e3177f4504e63ec269406b8ae00836
+    md5: 73d1b87abbf3881afde29cf3085837e0
+work/W.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.001.001.meta
+  hashes:
+    binhash: 814bb5136c7664102540b39415dfa0af
+    md5: 61f8979a7827de3630366061278a0eb6
+work/W.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.001.002.data
+  hashes:
+    binhash: 64eeb7e7a4424bfaec128b18c526bed9
+    md5: 0f1c856e91343cc9e9322cbf3d884df0
+work/W.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.001.002.meta
+  hashes:
+    binhash: ba9c0471623877f5beb1857895c4d84b
+    md5: 83ebfbdeb733aabed35b61c71ffb2413
+work/W.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.002.001.data
+  hashes:
+    binhash: 897f495bc8513900e9202bcf842cc4db
+    md5: a71fc2823d91e909ef77f5b41061d9be
+work/W.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.002.001.meta
+  hashes:
+    binhash: ab929c5d7635599dbc258a18238b2c79
+    md5: 5ac7b1620d03fd2d4866d6f7b551a92c
+work/W.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.002.002.data
+  hashes:
+    binhash: 7572723cd2f74877585e828b6d497903
+    md5: f99743a63d839d570df70f8597717f3d
+work/W.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/W.0000000010.002.002.meta
+  hashes:
+    binhash: e8d903298a4eb39a09a2f99c77e7495b
+    md5: 587baf469ba06b0172fc63ebddfe9ce2
+work/XC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.001.001.data
+  hashes:
+    binhash: 1604c903676e60c8a9c5049a9df6d2ba
+    md5: 130a1cd1c46c9aefa8b53cc4b39e3ce1
+work/XC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.001.001.meta
+  hashes:
+    binhash: 2228b35f7dd399bc5d2e794335b62c12
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/XC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.001.002.data
+  hashes:
+    binhash: 2a2723866af5c98828eec74545ac4622
+    md5: 130a1cd1c46c9aefa8b53cc4b39e3ce1
+work/XC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.001.002.meta
+  hashes:
+    binhash: 80f1b88c63d47f7e1671bfbd089f8511
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/XC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.002.001.data
+  hashes:
+    binhash: 2bb0ac1cc4eba648353cd7eab747e424
+    md5: 0aa9d6c6b885991ce34a569a1df5281e
+work/XC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.002.001.meta
+  hashes:
+    binhash: 3c444ea13c747b17ea0f882f346d0c37
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/XC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.002.002.data
+  hashes:
+    binhash: 6619d2887e2a4da510e6f439fc8bee6a
+    md5: 0aa9d6c6b885991ce34a569a1df5281e
+work/XC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XC.002.002.meta
+  hashes:
+    binhash: c5dbddf88d433b8213b1681c32ee171a
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/XG.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.001.001.data
+  hashes:
+    binhash: 6cf6fbd251f7654c13e1e43d1700da24
+    md5: c75dc0e3bc34100ba7e654087e579a87
+work/XG.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.001.001.meta
+  hashes:
+    binhash: 83c5ec92ba268e94be7c0f3ecd79f624
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/XG.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.001.002.data
+  hashes:
+    binhash: c29ab1bf0a8588e996cfd47e97c43d9b
+    md5: c75dc0e3bc34100ba7e654087e579a87
+work/XG.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.001.002.meta
+  hashes:
+    binhash: af5c305f5fdb33ec0af2d03d3c501873
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/XG.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.002.001.data
+  hashes:
+    binhash: 8f11aa01de06fb9708ec9e671c228f0e
+    md5: 838bc4425890d877a9523c4376a78a46
+work/XG.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.002.001.meta
+  hashes:
+    binhash: fa5781aa6400d823c4b3901a535c2b31
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/XG.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.002.002.data
+  hashes:
+    binhash: 2b17a16f84375c1e09acfc7c576a33cb
+    md5: 838bc4425890d877a9523c4376a78a46
+work/XG.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/XG.002.002.meta
+  hashes:
+    binhash: f613bd729df97160b07f99e78e3e6bec
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/YC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.001.001.data
+  hashes:
+    binhash: 35cfe69ee15ca5e9e045b156ee896595
+    md5: f1916aa386d36509b7980ad4bade8c9a
+work/YC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.001.001.meta
+  hashes:
+    binhash: 12053f407c335dfd75db9c3fc9ae53f3
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/YC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.001.002.data
+  hashes:
+    binhash: b3e711b4d93b306d8017164c2ddeaa70
+    md5: 2dadd4c4d4d32594441cd13baed46866
+work/YC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.001.002.meta
+  hashes:
+    binhash: f300a83250cb7e832865eed06b4eefe7
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/YC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.002.001.data
+  hashes:
+    binhash: da42ce9112cfbb2acb2f3682e48daf82
+    md5: f1916aa386d36509b7980ad4bade8c9a
+work/YC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.002.001.meta
+  hashes:
+    binhash: ec8f3a0c3ccadde93f70cb8bb1138884
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/YC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.002.002.data
+  hashes:
+    binhash: e4b7cf61eade2850dfaad28946d3ddfd
+    md5: 2dadd4c4d4d32594441cd13baed46866
+work/YC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YC.002.002.meta
+  hashes:
+    binhash: 1cdc0a09a0a458ac4b80e67729b4d564
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/YG.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.001.001.data
+  hashes:
+    binhash: 25c20bd5cdff943a389588c0996e75e3
+    md5: 2b128ed4aa1bc3128fe619fc92d5f2f5
+work/YG.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.001.001.meta
+  hashes:
+    binhash: 0fd026c873df48d655ef7d8f337922a8
+    md5: f7f0f31735150ebfa3e034d23558e242
+work/YG.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.001.002.data
+  hashes:
+    binhash: 464580e76faa1f40a31962b791ed4445
+    md5: cb0fea6411336469adec18dd67e74fe2
+work/YG.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.001.002.meta
+  hashes:
+    binhash: 3a3165ed10bce6bc0131bf80bbe5f53e
+    md5: 17264a19a5fc13dd90890e41d582c0c2
+work/YG.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.002.001.data
+  hashes:
+    binhash: 09d54d99dee7477169ae23be58add9d1
+    md5: 2b128ed4aa1bc3128fe619fc92d5f2f5
+work/YG.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.002.001.meta
+  hashes:
+    binhash: 81a08d1389fac42a3e9e409d5754aef6
+    md5: f68e823b190ebf0339ee8784b032b0d9
+work/YG.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.002.002.data
+  hashes:
+    binhash: 4e669be756a5a3cf9a4328190626a041
+    md5: cb0fea6411336469adec18dd67e74fe2
+work/YG.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/YG.002.002.meta
+  hashes:
+    binhash: cff9f4a89c9b42bdb4dcea04b1fdf294
+    md5: 53088d45c29ef9138a2c3a56dc4904a3
+work/eedata.mth:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/eedata.mth
+  hashes:
+    binhash: 419c77086fe904e3500ccea8bd210441
+    md5: f8dbda560b427d9d3a6d592fe13ab70b
+work/gendata.m:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/gendata.m
+  hashes:
+    binhash: 80e33f694f460af5be921a96010f4ff0
+    md5: ffb2eae3fd44185c3c8ce9b46f69b307
+work/hFacC.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.001.001.data
+  hashes:
+    binhash: 45b74b150c820e0cc65eee9eb2ea1bff
+    md5: ae63eca137289e6ab3c38b09b0c4bbc4
+work/hFacC.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.001.001.meta
+  hashes:
+    binhash: a43dc99a92ef0e096bc34190a975aa64
+    md5: b2825681e153393fd361768eb948f9a2
+work/hFacC.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.001.002.data
+  hashes:
+    binhash: 565038bd5205149e968726b1a576eff7
+    md5: cdfb6849247e1d3f001519bfcf5d5424
+work/hFacC.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.001.002.meta
+  hashes:
+    binhash: 162410ebd876630cd1502ed370d31eba
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/hFacC.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.002.001.data
+  hashes:
+    binhash: ee6aae10e4d8cfca78180c2646bba032
+    md5: fd7ead5fee068c4a994389c2f58bf087
+work/hFacC.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.002.001.meta
+  hashes:
+    binhash: 4b9863bdf6f539c09e0010f0a4314ba2
+    md5: b0d0923933fced59729d766257be2794
+work/hFacC.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.002.002.data
+  hashes:
+    binhash: 044d5adb16c269278d63b74600f97ac8
+    md5: 8045dfb56f91c9aaa67a49621a67217f
+work/hFacC.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacC.002.002.meta
+  hashes:
+    binhash: 68a14625e275cc74ee11fd29e1845790
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/hFacS.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.001.001.data
+  hashes:
+    binhash: 6915e513b6e14114bab7eb83f96bf43e
+    md5: dabcf1befaa0eff9f76241d3c43fa12e
+work/hFacS.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.001.001.meta
+  hashes:
+    binhash: f5f4581702ad121bf0c8e57b31a07b10
+    md5: b2825681e153393fd361768eb948f9a2
+work/hFacS.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.001.002.data
+  hashes:
+    binhash: 9d7b689fbe637825b598536672d46968
+    md5: cdfb6849247e1d3f001519bfcf5d5424
+work/hFacS.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.001.002.meta
+  hashes:
+    binhash: 5d5e51ed5a83d1c0c2fb8294f50aacfc
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/hFacS.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.002.001.data
+  hashes:
+    binhash: f79d6f1f67b587bdab37af18d520282f
+    md5: 8b4f4723694b8c09c796c57d259648d9
+work/hFacS.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.002.001.meta
+  hashes:
+    binhash: 87f702458ba0fb4e458296c0f00cf430
+    md5: b0d0923933fced59729d766257be2794
+work/hFacS.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.002.002.data
+  hashes:
+    binhash: 6bae3c482e9e65fb9f4c9d1513aebaa5
+    md5: 8045dfb56f91c9aaa67a49621a67217f
+work/hFacS.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacS.002.002.meta
+  hashes:
+    binhash: ec707af206376f5f09024b78c35f1336
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/hFacW.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.001.001.data
+  hashes:
+    binhash: b949e9784cc91f93b376b0a239ac22f0
+    md5: 311b1f7f3923fc069c67da06806551ec
+work/hFacW.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.001.001.meta
+  hashes:
+    binhash: e08d68fdf44eff9e905ee271f0cbe10c
+    md5: b2825681e153393fd361768eb948f9a2
+work/hFacW.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.001.002.data
+  hashes:
+    binhash: 32e83bd4056d67dd528a3e6fdfcc37de
+    md5: 13c452e1d28ea3ce85e945834eee958e
+work/hFacW.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.001.002.meta
+  hashes:
+    binhash: afaee495540b328c2fd8d213e9d4b11b
+    md5: 1cabdeb221dfc91cf3230cf4bc5e6937
+work/hFacW.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.002.001.data
+  hashes:
+    binhash: c305797b5f65bea604e5e015881eb00e
+    md5: fd7ead5fee068c4a994389c2f58bf087
+work/hFacW.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.002.001.meta
+  hashes:
+    binhash: 6fe453acbb426b78fb37b80d38339f1a
+    md5: b0d0923933fced59729d766257be2794
+work/hFacW.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.002.002.data
+  hashes:
+    binhash: 310302fab5811dc198548812f4ab5fef
+    md5: 8045dfb56f91c9aaa67a49621a67217f
+work/hFacW.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/hFacW.002.002.meta
+  hashes:
+    binhash: 8adfcd7b0806da8ec5f45f8ab9e7859a
+    md5: b66acdcaa974f6cbc6f04004a50f8a09
+work/mitgcmuv:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/mitgcmuv
+  hashes:
+    binhash: 6ec5cc4200f1c5ee813561878eb73564
+    md5: 98e00584512211fc063114174976e4fc
+work/pickup.ckptA.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.001.001.data
+  hashes:
+    binhash: f213be0fa3c3a06dc9257939a7a6c707
+    md5: ac15e6b85d6986c2aad5f63118a7de53
+work/pickup.ckptA.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.001.001.meta
+  hashes:
+    binhash: 316de091d54250b912a82f21cda21a01
+    md5: f99cce4c998b6feb5d49b1d1f8407dcd
+work/pickup.ckptA.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.001.002.data
+  hashes:
+    binhash: 72da0c3950c920a8f36008bec9294eb6
+    md5: 91b8183a0d2d9a7e4278fd31edae0c84
+work/pickup.ckptA.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.001.002.meta
+  hashes:
+    binhash: ac2b630df848587d549463c508203146
+    md5: 6542b0b994109a68fa28831a85b368eb
+work/pickup.ckptA.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.002.001.data
+  hashes:
+    binhash: 605f298d1279cb63431631c26e75b5da
+    md5: bd17a4c5026df8db4292635baf3d15a9
+work/pickup.ckptA.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.002.001.meta
+  hashes:
+    binhash: 61c196a26258324b99a554e441c55ab6
+    md5: b05235df4091e72666959aaf8d6deae9
+work/pickup.ckptA.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.002.002.data
+  hashes:
+    binhash: 38131a8b235a192c7673f073b9ac6786
+    md5: b0faa28eed8ac761c6c5013deda9cd73
+work/pickup.ckptA.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/pickup.ckptA.002.002.meta
+  hashes:
+    binhash: 10d967c96825749feaa94d3f73d729c4
+    md5: b6d4145132f99251d217728eda5ec45e
+work/topog.box:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/topog.box
+  hashes:
+    binhash: 0afc31709cdad0c2b3cc2e1378d63b3d
+    md5: fdf9e86abbbed1433ba352ec72b65bce
+work/windx.sin_y:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/windx.sin_y
+  hashes:
+    binhash: 32480935aea8a5b1849761918897e12a
+    md5: 268dd8e3c3c9678e05c99e49b11e72bc
