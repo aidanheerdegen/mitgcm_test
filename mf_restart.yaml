@@ -1,5 +1,5 @@
 format: yamanifest
-githash: 15d771e55bb953127f66e36e40615166160bb6f2
+githash: 42c2af1e99aba160f31ce92aca30fb0cf11d3ee2
 version: 1.0
 ---
 work/pickup.0000000300.001.001.data:
@@ -42,3 +42,43 @@ work/pickup.0000000300.002.002.meta:
   hashes:
     binhash: e87d51eb490a407a7840bed9995b0078
     md5: d903824222525e228afd20472820d604
+work/pickup.0000000310.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.001.001.data
+  hashes:
+    binhash: b0d8f06f2046bc06b5f310c857cc4c6d
+    md5: af4ccab680aeaeecba8616adcd73598a
+work/pickup.0000000310.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.001.001.meta
+  hashes:
+    binhash: db6779e22636581da9ba58cc0a3efb2f
+    md5: 3e20a738fd6eea8ca4c8445b71888c82
+work/pickup.0000000310.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.001.002.data
+  hashes:
+    binhash: 15a45a0c180496226249ec913a149085
+    md5: e625dc5557c58856387ba492e85641da
+work/pickup.0000000310.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.001.002.meta
+  hashes:
+    binhash: 0cdfbe1c1072dced1e72e261e6a3e8e9
+    md5: f0966bdeb606d31ac5a1d62bed87bf24
+work/pickup.0000000310.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.002.001.data
+  hashes:
+    binhash: 714999d1524d6ea419c456a330ff08e2
+    md5: ccf3e3dd37682bcedc9062e744899a1f
+work/pickup.0000000310.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.002.001.meta
+  hashes:
+    binhash: 1fd235517c5fc4020719394930b4cb6b
+    md5: 9c9a440c09347e7275fcdee40cfcaa69
+work/pickup.0000000310.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.002.002.data
+  hashes:
+    binhash: 4226e366723ce2680a45e3c44ccbfb67
+    md5: 1e984cc53ae30a5ea9bf27e6f9614693
+work/pickup.0000000310.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart030/pickup.0000000310.002.002.meta
+  hashes:
+    binhash: b9a8241563536c3479b7d05e3f14e585
+    md5: 9a4ba0bf10b556a7f3afed2d1bf1f199
